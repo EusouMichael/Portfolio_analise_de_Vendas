@@ -106,18 +106,6 @@ O dashboard permite acompanhar faturamento, desempenho de vendedores, participa�
 
 ---
 
-## 👨‍💻 Autor
-
-Michael Ferreira
-
-GitHub:
-https://github.com/EusouMichael
-
-LinkedIn:
-https://www.linkedin.com/in/michael-ferreira-5b622332a/
-
----
-
 ## ⭐ Resultado
 
 Projeto desenvolvido para fins de estudo, prática de Power BI e composição de portfólio profissional em Análise de Dados e Business Intelligence.
