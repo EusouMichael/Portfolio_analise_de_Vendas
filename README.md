@@ -1,111 +1,53 @@
-# 📊 Dashboard de Análise de Vendas
+# 📊 Sales Analytics — Power BI
 
-## 📌 Sobre o Projeto
+Projeto de **Análise de Vendas e Business Intelligence** desenvolvido no Power BI para acompanhar faturamento, desempenho comercial, produtos, categorias e evolução das vendas.
 
-Este projeto foi desenvolvido no Power BI com o objetivo de analisar o desempenho de vendas de uma empresa através de indicadores estratégicos e visualizações interativas.
+## 🎯 Objetivo
 
-O dashboard permite acompanhar faturamento, desempenho de vendedores, participação de categorias e evolução das vendas ao longo do tempo.
+Criar uma visão interativa do desempenho comercial e praticar construção de KPIs, modelagem de dados, filtros e visualizações no Power BI.
 
----
+## 📈 Indicadores e análises
 
-## 🎯 Objetivos
+- Faturamento Total
+- Faturamento por Produto
+- Faturamento por Vendedor
+- Evolução mensal das vendas
+- Participação por categoria
+- Filtro por vendedor
 
-* Monitorar o faturamento total.
-* Avaliar o desempenho dos vendedores.
-* Identificar produtos com maior impacto nas vendas.
-* Analisar a distribuição do faturamento por categoria.
-* Acompanhar a evolução mensal das vendas.
+## 🔍 Principais resultados registrados no projeto
 
----
+- Faturamento total aproximado de **R$ 12,3 mil**
+- Janeiro apresentou o maior volume de vendas
+- Notebook foi o produto com maior contribuição para o faturamento
+- João apresentou o melhor desempenho comercial
+- Produtos de maior valor tiveram impacto relevante no resultado final
 
-## 📈 Indicadores Disponíveis
+## 🛠️ Tecnologias
 
-### KPI Principal
+- Power BI Desktop
+- Power Query
+- DAX
+- Modelagem de Dados
 
-* Faturamento Total
-
-### Análises
-
-* Faturamento por Produto
-* Faturamento por Vendedor
-* Evolução Mensal das Vendas
-* Participação por Categoria
-
-### Filtros
-
-* Vendedor
-
----
-
-## 🛠️ Ferramentas Utilizadas
-
-* Power BI Desktop
-* Power Query
-* DAX
-* Modelagem de Dados
-
----
-
-## 📂 Estrutura do Dashboard
-
-### Página Principal
-
-| Visual             | Objetivo                          |
-| ------------------ | --------------------------------- |
-| KPI Card           | Exibir faturamento total          |
-| Gráfico de Barras  | Comparar faturamento por produto  |
-| Gráfico de Colunas | Comparar faturamento por vendedor |
-| Gráfico de Colunas | Evolução mensal das vendas        |
-| Gráfico de Pizza   | Participação por categoria        |
-| Slicer             | Filtrar informações por vendedor  |
-
----
-
-## 🔍 Principais Insights
-
-* Faturamento total aproximado de R$ 12,3 mil.
-* Janeiro apresentou o maior volume de vendas.
-* Notebook foi o produto de maior contribuição para o faturamento.
-* João apresentou o melhor desempenho comercial.
-* Produtos de maior valor impactaram diretamente o resultado final.
-
----
-
-## 🚀 Possíveis Melhorias Futuras
-
-* Indicador de Ticket Médio
-* Indicador de Lucro
-* Margem de Lucro (%)
-* Comparação mês contra mês
-* Ranking dinâmico Top N
-* Drill Through
-* Tooltips personalizados
-* Dashboard responsivo para dispositivos móveis
-
----
-
-## 📷 Dashboard
-
-> Adicione aqui uma captura de tela do dashboard.
-
-```markdown
-![Dashboard](images/dashboard.png)
-```
-
----
-
-## 📁 Arquivos do Projeto
+## 📁 Estrutura
 
 ```text
-📦 Analise-de-Vendas
- ┣ 📊 Analise de Vendas01.pbix
- ┣ 📷 images/
- ┃ ┗ dashboard.png
- ┗ 📄 README.md
+Portfolio_analise_de_Vendas/
+├── Analise de Vendas01.pbix
+└── README.md
 ```
 
----
+## 🚀 Próximas melhorias
 
-## ⭐ Resultado
+- Ticket Médio
+- Lucro e Margem de Lucro
+- Comparação mês contra mês
+- Ranking dinâmico Top N
+- Drill Through
+- Tooltips personalizados
+- Dashboard responsivo
 
-Projeto desenvolvido para fins de estudo, prática de Power BI e composição de portfólio profissional em Análise de Dados e Business Intelligence.
+## 📌 Sobre o projeto
+
+Projeto desenvolvido para fins de estudo, prática de Power BI e composição de portfólio profissional em **Análise de Dados e Business Intelligence**.
